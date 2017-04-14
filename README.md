@@ -13,7 +13,8 @@
 ## 买卖人开店App使用手册
 
  [手册](handbook.md)
- [首页](helpimg.jpeg)
+
+ ![首页](helpimg.jpeg)
 
 
 
